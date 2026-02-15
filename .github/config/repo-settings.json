@@ -1,0 +1,7 @@
+{
+  "repository": {
+    "description": "F5 XC observability and monitoring",
+    "homepage": "https://f5xc-salesdemos.github.io/observability/"
+  },
+  "topics": ["f5xc"]
+}
