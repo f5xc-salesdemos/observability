@@ -6,18 +6,10 @@
 
 F5 XC observability and monitoring
 
+
 ## Documentation
 
 Full documentation is available at **[https://f5xc-salesdemos.github.io/observability/](https://f5xc-salesdemos.github.io/observability/)**.
-
-## Getting Started
-
-```bash
-git clone https://github.com/f5xc-salesdemos/observability.git
-```
-
-See the [documentation](https://f5xc-salesdemos.github.io/observability/) for detailed setup
-and usage guides.
 
 ## Contributing
 
